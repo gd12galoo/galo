@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="TV Aberta", SPORTV
+https://live-edge.pxstream.tv/hls/sportvhd/chunks.m3u8?md5=K1ubBg6MPnO639g0y0RHBQ&expires=1536037425
+
+#EXTINF:-1 tvg-logo"http://propmark.com.br/static/upload/legacy/thumbs/sexyhot300.png" group-title="TV Aberta, Sexy Hot
+https://canal.cometa.top/hls1/sexhot.m3u8
